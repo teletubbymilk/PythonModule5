@@ -1,0 +1,4 @@
+shower, low
+dishes, mid
+
+
